@@ -30,11 +30,11 @@
 .navbar__links li {
    margin: 0 1rem;
    cursor: pointer;
-   transition: color 0.2s ease-in-out;
+   transition: color 0.3s ease-in-out;
 }
 
 .navbar__links li:hover {
-   color: var(--color-gray);
+   color: var(--color-golden);
 }
 
 .navbar__login {
@@ -46,10 +46,12 @@
 .navbar__login a {
    margin: 0 1rem;
    text-decoration: none;
-   transition: border 0.5s ease;
+   transition: border 0.3s ease-in-out, color 0.3s ease-in-out ;
+   border-bottom: 1px solid transparent;
 }
 
 .navbar__login a:hover {
+   color: var(--color-golden);
    border-bottom: 1px solid var(--color-golden);
 }
 

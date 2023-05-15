@@ -1,0 +1,27 @@
+.content-wrapper-right {
+   display: flex;
+   justify-content: flex-end;
+   align-items: flex-end;
+   flex-direction: column;
+
+   text-align: right;
+}
+
+.content-wrapper-left {
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   flex-direction: column;
+
+   text-align: left;
+}
+
+.content-wrapper__paragraph {
+   margin: 4rem 0;
+}
+
+@media screen and (max-width: 900px) {
+   .content-wrapper__paragraph {
+      margin: 2rem 0;
+   }
+}

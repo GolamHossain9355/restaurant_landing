@@ -27,4 +27,6 @@ const App = () => (
    </div>
 )
 
+App.displayName = "MyApp"
+
 export default App

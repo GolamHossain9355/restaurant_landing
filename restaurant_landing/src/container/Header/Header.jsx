@@ -1,4 +1,3 @@
-import React from "react"
 import { SubHeading } from "./../../components"
 
 import { images } from "../../constants"
