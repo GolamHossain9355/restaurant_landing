@@ -5,7 +5,7 @@ import "./SpecialMenu.css"
 import { images, data } from "../../constants"
 
 const SpecialMenu = () => (
-   <div className="special-menu flex__center section__padding" id="#menu">
+   <div className="special-menu flex__center section__padding" id="menu">
       <div className="special-menu__title">
          <SubHeading text="Menu that fits you palette" />
          <h1 className="headtext__cormorant">Todays Special</h1>

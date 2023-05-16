@@ -6,7 +6,7 @@ import { images } from "../../constants"
 import "./AboutUs.css"
 
 const AboutUs = () => (
-   <div className="about-us app__bg flex__center section__padding" id="#about">
+   <div className="about-us app__bg flex__center section__padding" id="about">
       <div className="about-us__overlay flex__center">
          <img src={images.G} alt="g letter" />
       </div>
