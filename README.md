@@ -2,6 +2,8 @@
 
 Welcome to the Restaurant Landing project, where I've put my CSS skills to work in creating an impressive restaurant landing page that's a visual treat!
 
+[Live Demo](https://restaurant-landing-azure.vercel.app/#about)
+
 ## A Visual Delight
 
 This project is a testament to my mastery of CSS. Every pixel of the Restaurant Landing page has been meticulously crafted to exude elegance and sophistication, setting the stage for a sumptuous dining experience.
